@@ -129,7 +129,7 @@ Para mais informações sobre o projeto Locadora de Veículos, os alunos se colo
 
 - Vinicius Gonçalves
 * https://github.com/vviniciws
-* https://www.linkedin.com/in/vinícius-pinto-8752aa279)
+* https://www.linkedin.com/in/vinícius-pinto-8752aa279/
 
 - Gabriel Augusto
 * https://github.com/gabrielsaugusto
