@@ -123,30 +123,29 @@ Expressam seus sinceros agradecimentos aos professores Israel Severino Junior e 
 
 ## Contato
 Para mais informações sobre o projeto Locadora de Veículos, os alunos se colocam à disposição para responder perguntas e esclarecer dúvidas através dos seguintes canais (GitHub / Linkedin):
-- Yago Mendes
-* https://github.com/DevMendes21
-* LINKEDIN
+Yago Mendes
+https://github.com/DevMendes21
+https://www.linkedin.com/in/yago-mendes-328b5923b/
 
-- Vinicius Gonçalves
-* https://github.com/vviniciws
-* LINKEDIN
+Vinicius Gonçalves
+https://github.com/vviniciws
+https://www.linkedin.com/in/vinícius-pinto-8752aa279
 
-- Gabriel Augusto
-* https://github.com/gabrielsaugusto
-* LINKEDIN
+Gabriel Augusto
+https://github.com/gabrielsaugusto
+https://www.linkedin.com/in/gabrieldos/
 
-- Carlos Henrique
-* https://github.com/Carlos-Magalhaess
-* LINKEDIN
+Carlos Henrique
+https://github.com/Carlos-Magalhaess
+https://www.linkedin.com/in/carlos-henrique-726350281/
 
-- João Pedro
-* https://github.com/JoaoPAlen
-* LINKEDIN
+João Pedro
+https://github.com/JoaoPAlen
+www.linkedin.com/in/joãopcosta/
 
-- Rafael Proença
-* https://github.com/FaelProenca
-* LINKEDIN
-
+Rafael Proença
+https://github.com/FaelProenca
+https://www.linkedin.com/in/faelproenca/
 ## Observações Adicionais
 
 A documentação oficial do projeto Locadora de Veículos estará disponível em breve nos repositórios GitHub dos alunos. Os alunos agradecem a oportunidade de compartilhar seu trabalho com a comunidade e esperam que o projeto Locadora de Veículos possa ser útil para outros estudantes e entusiastas de desenvolvimento de sistemas de gerenciamento.
